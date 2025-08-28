@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "username": "emilyd",
+      "email": "emily.davis@gmail.com",
+      "phone": "456-789-0123",
+      "website": "emilydavis.me"
+    },
+    {
+      "id": "5",
+      "name": "David Wilson",
+      "username": "davidw",
+      "email": "davidw@outlook.com",
+      "phone": "567-890-1234",
+      "website": "davidwilson.dev"
+    },
+    {
+      "id": "6",
+      "name": "Sophia Martinez",
+      "username": "sophiam",
+      "email": "sophia.martinez@gmail.com",
+      "phone": "678-901-2345",
+      "website": "sophiamartinez.com"
+    },
+    {
+      "id": "7",
+      "name": "James Brown",
+      "username": "jamesb",
+      "email": "jamesb@yahoo.com",
+      "phone": "789-012-3456",
+      "website": "jamesbrown.info"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Taylor",
+      "username": "oliviat",
+      "email": "olivia.taylor@gmail.com",
+      "phone": "890-123-4567",
+      "website": "oliviataylor.io"
+    },
+    {
+      "id": "9",
+      "name": "Christopher Lee",
+      "username": "chrisl",
+      "email": "chrisl@hotmail.com",
+      "phone": "901-234-5678",
+      "website": "chrislee.tech"
+    },
+    {
+      "id": "10",
+      "name": "Ava Harris",
+      "username": "avah",
+      "email": "ava.harris@gmail.com",
+      "phone": "012-345-6789",
+      "website": "avaharris.org"
+    },
+    {
+      "id": "11",
+      "name": "Benjamin Clark",
+      "username": "benclark",
+      "email": "ben.clark@yahoo.com",
+      "phone": "213-456-7890",
+      "website": "benjaminclark.dev"
+    },
+    {
+      "id": "12",
+      "name": "Mia Lewis",
+      "username": "mial",
+      "email": "mia.lewis@gmail.com",
+      "phone": "324-567-8901",
+      "website": "mialewis.net"
+    },
+    {
+      "id": "13",
+      "name": "Ethan Walker",
+      "username": "ethanw",
+      "email": "ethanw@outlook.com",
+      "phone": "435-678-9012",
+      "website": "ethanwalker.com"
+    },
+    {
+      "id": "44d7",
+      "name": "rt",
+      "email": "tff@5etrgf",
+      "phone": "765"
+    }
+  ]
+}
