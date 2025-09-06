@@ -63,8 +63,8 @@ function Home() {
                   <td>{user.email}</td>
                   <td>{user.phone}</td>
                   <td className>
-                    <Link to={`/read/${user.id}`}className='btn btn-sm btn-info me-2'>Read</Link>
-                    <Link to={`/update/${user.id}`}className='btn btn-sm btn-primary me-2'>Edit</Link>
+                    <Link to={`/read/${user.id}`} className='btn btn-sm btn-info me-2'>Read</Link>
+                    <Link to={`/update/${user.id}`} className='btn btn-sm btn-primary me-2'>Edit</Link>
                     <button onClick={e => handleDelete(user.id)} className='btn btn-sm btn-danger'>Delete</button>
                   </td>
                 </tr>
