@@ -5,9 +5,9 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 function Update() {
   const { id } = useParams();
   const [values, setValues] = useState({
-    name: '',
-    email: '',
-    phone: ''
+      name: '',
+      email: '',
+      phone: ''
   })
 
   useEffect(() => {
